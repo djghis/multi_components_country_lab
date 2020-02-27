@@ -1,6 +1,6 @@
 <template lang="html">
-  <!-- <div v-if='country'> -->
-  <div class="">
+  <div v-if='country'>
+  <!-- <div class=""> -->
 
     <h3>country details:</h3>
     <h3>{{country.name}}</h3>
